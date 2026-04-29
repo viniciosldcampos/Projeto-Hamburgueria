@@ -1,0 +1,12 @@
+{
+  "name": "hamburgueria",
+  "version": "1.0.0",
+  "description": "Este projeto consiste na construção de uma API utilizando Node.js com o framework Express, seguindo boas práticas de organização, segurança e padronização de código.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
