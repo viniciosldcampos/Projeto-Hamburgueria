@@ -4,12 +4,15 @@
   "description": "Este projeto consiste na construção de uma API utilizando Node.js com o framework Express, seguindo boas práticas de organização, segurança e padronização de código.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch src/server.js"
+
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
   }
+  
 }
